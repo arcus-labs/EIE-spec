@@ -198,7 +198,16 @@ That is what EIE is trying to measure.
 
 ## **License**
 
-The Epistemic Integrity Evaluation (EIE) specification is licensed under **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
+The Epistemic Integrity Evaluation (EIE) specification is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-You are free to use, adapt, and build on this protocol, provided appropriate attribution is given.
+You are free to:
 
+* Share — copy and redistribute the material in any medium or format  
+* Adapt — remix, transform, and build upon the material  
+* Use for any purpose, including commercial use
+
+Under the following terms:
+
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+This license applies to the specification text only. Reference implementations, tooling, datasets, and certification programs may be licensed separately.
