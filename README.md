@@ -175,7 +175,7 @@ We explicitly invite critique focused on:
 * longitudinal effects
 * deployment realism
 
-See **Appendix C — Call for Critique** in the protocol for details.
+See **[Contribution-Guide.md](Contribution-Guide.md)** for details.
 
 Negative results, failures, and limitations are first-class contributions.
 
