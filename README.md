@@ -4,6 +4,11 @@
 
 ---
 
+Spec Links:
+* [Protocol Spec](EIE-Protocol.md)
+* [Appendix-A - Open Questions](EIE-Appendix-A.md)
+* [Appendix-B -  Questions](EIE-Appendix-B.md)
+
 ## **Overview**
 
 **Epistemic Integrity Evaluation (EIE)** is a model-agnostic evaluation protocol designed to measure whether AI systems behave *epistemically well* — not just whether they produce correct answers.
@@ -133,15 +138,15 @@ eie-spec/
 
 ### **Key Documents**
 
-* **EIE-Protocol.md**
+* **[EIE-Protocol.md](EIE-Protocol.md)**
 
    The normative protocol specification: principles, scoring methodology, evaluation modes, and governance.
 
-* **EIE-Appendix-A.md**
+* **[EIE-Appendix-A.md](EIE-Appendix-A.md)**
 
    Open questions, known tradeoffs, and areas explicitly left unresolved for community input.
 
-* **EIE-Appendix-B.md**
+* **[EIE-Appendix-B.md](EIE-Appendix-B.md)**
 
    The initial standardized question set (v0.1), organized by epistemic stressor rather than domain, with example tasks and evaluator guidance.
 
