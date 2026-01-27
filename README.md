@@ -9,6 +9,10 @@
 * [Appendix-A - Open Questions](EIE-Appendix-A.md)
 * [Appendix-B -  Questions](EIE-Appendix-B.md)
 
+## NotebookLM Walkthrough
+
+* [Iterative Reasoning Graphs: Definitions and Protocols](https://notebooklm.google.com/notebook/8b677389-7364-4c0f-b3d4-2e93e867931d)
+
 ## **Overview**
 
 **Epistemic Integrity Evaluation (EIE)** is a model-agnostic evaluation protocol designed to measure whether AI systems behave *epistemically well* — not just whether they produce correct answers.
