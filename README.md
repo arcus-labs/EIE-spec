@@ -11,7 +11,7 @@
 
 ## NotebookLM Walkthrough
 
-* [Iterative Reasoning Graphs: Definitions and Protocols](https://notebooklm.google.com/notebook/8b677389-7364-4c0f-b3d4-2e93e867931d)
+* [Epistemic Integrity Evaluation: Protocol and Standardized Question Set](https://notebooklm.google.com/notebook/8b677389-7364-4c0f-b3d4-2e93e867931d)
 
 ## **Overview**
 
